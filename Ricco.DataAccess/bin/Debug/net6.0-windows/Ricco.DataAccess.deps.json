@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ricco.DataAccess/1.0.0": {
+        "dependencies": {
+          "Ricco.DomainModel": "1.0.0"
+        },
+        "runtime": {
+          "Ricco.DataAccess.dll": {}
+        }
+      },
+      "Ricco.DomainModel/1.0.0": {
+        "runtime": {
+          "Ricco.DomainModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ricco.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ricco.DomainModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

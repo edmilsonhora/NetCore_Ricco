@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AzureFunctionsVersion>v4</AzureFunctionsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Models\CategoriaDeProduto.cs" />
+    <Compile Remove="Teste.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\Ricco.DomainModel\CategoriaDeProduto.cs" Link="Models\CategoriaDeProduto.cs" />
+    <Compile Include="..\Ricco.DomainModel\EntityBase.cs" Link="Models\EntityBase.cs" />
+    <Compile Include="..\Ricco.DomainModel\_Abstracoes.cs" Link="Models\_Abstracoes.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="4.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="host.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="local.settings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Never</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>

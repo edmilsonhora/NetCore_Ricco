@@ -1,0 +1,12 @@
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\bin\Debug\net6.0-windows\Ricco.DomainModel.deps.json
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\bin\Debug\net6.0-windows\Ricco.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\bin\Debug\net6.0-windows\Ricco.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\refint\Ricco.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\Ricco.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DomainModel\obj\Debug\net6.0-windows\ref\Ricco.DomainModel.dll
