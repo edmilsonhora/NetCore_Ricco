@@ -1,0 +1,17 @@
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.ApplicationService.deps.json
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.ApplicationService.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.ApplicationService.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.DataAccess.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.DataAccess.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\bin\Debug\net6.0-windows\Ricco.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.csproj.CopyComplete
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\refint\Ricco.ApplicationService.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\Ricco.ApplicationService.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.ApplicationService\obj\Debug\net6.0-windows\ref\Ricco.ApplicationService.dll

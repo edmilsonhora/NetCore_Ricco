@@ -1,0 +1,15 @@
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\bin\Debug\net6.0-windows\Ricco.DataAccess.deps.json
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\bin\Debug\net6.0-windows\Ricco.DataAccess.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\bin\Debug\net6.0-windows\Ricco.DataAccess.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\bin\Debug\net6.0-windows\Ricco.DomainModel.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\bin\Debug\net6.0-windows\Ricco.DomainModel.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.AssemblyInfo.cs
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.csproj.CopyComplete
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\refint\Ricco.DataAccess.dll
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\Ricco.DataAccess.pdb
+C:\Users\Edmilson da Hora\source\repos\Ricco\Ricco.DataAccess\obj\Debug\net6.0-windows\ref\Ricco.DataAccess.dll
